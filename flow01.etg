@@ -1,0 +1,9 @@
+[Version Information]
+Flow Version = 0
+[DataFlow SourceTargetView]
+DataFlowChildWindow(sql) = 0,250,200,298,248,0,0
+DataFlowChildWindow(src:dmreps_ora:t1) = 0,92,188,140,236,0,0
+DataFlowChildWindow(trg:dm_mytb1:1) = 0,398,200,446,248,0,0
+[Dependency View]
+Coord(Item,START_PRC) = 120,30
+Coord(Item,DEP_MAIN) = 240,30
