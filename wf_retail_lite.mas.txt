@@ -1,6 +1,5 @@
 $Copyright (c) Information Builders, Inc. All rights reserved. @MFSM_NOPROLOG@ $
 FILENAME=WF_RETAIL_LITE, TRANS_FILE=_EDAHOME/NLS/dt,
- REMARKS='Lite Cluster Join of Fact Tables Sales and Shipments for Demo DB', $
   SEGMENT=WF_RETAIL_SALES, PARENT=., CRFILE=mtools/FACTS/WF_RETAIL_SALES, CRINCLUDE=ALL,
     DESCRIPTION='Sales Fact', $
     FIELDNAME=ID_SALES,
