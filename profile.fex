@@ -1,1 +1,3 @@
--*DM_GIT_CONN=conGitHub1
+-*DM_JOB_TYPE=1 
+-*DM_GIT_CONN=conGitHub 
+ 
