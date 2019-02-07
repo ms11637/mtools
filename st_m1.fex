@@ -1,0 +1,6 @@
+-*new file
+-TYPE this is a new file
+TABLE FILE CAR
+PRINT CAR COUNTRY 
+END
+-RUN
