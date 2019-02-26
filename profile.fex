@@ -1,3 +1,2 @@
--*DM_JOB_TYPE=1 
--*DM_GIT_CONN=conGitHub 
- 
+-*DM_GIT_CONN=conHub
+-* marina added
