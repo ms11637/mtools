@@ -1,6 +1,6 @@
 -*new file
 -TYPE this is a new file
 TABLE FILE CAR
-PRINT CAR COUNTRY 
+PRINT CAR COUNTRY MODEL
 END
 -RUN
